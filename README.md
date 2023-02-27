@@ -3,7 +3,7 @@
 I am a Full-Stack Developer with over a year of experience in Software Engineering.
 I am passionate about politics and teaching and I enjoy playing chess in my free time.
 
-![Alt text](images/full-stack-development.gif)
+<img src = './images/full-stack-development.gif' style="width:20rem;height: 15rem;" alt='html'>
 
 
 ## Skills
