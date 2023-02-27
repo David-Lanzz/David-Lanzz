@@ -1,7 +1,10 @@
 # Hello, I'm David 👋
 
 I am a Full-Stack Developer with over a year of experience in Software Engineering.
-I am passionate about politics and teaching and I enjoy playing chess in my free time
+I am passionate about politics and teaching and I enjoy playing chess in my free time.
+
+![Alt text](images/full-stack-development.gif)
+
 
 ## Skills
 
