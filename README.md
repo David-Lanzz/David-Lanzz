@@ -5,19 +5,26 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 
 ## Skills
 
-- HTML  <img src = './html.png' style="width:4rem;height: 4rem;" alt='html'>
+- HTML  
+<img src = './html.png' style="width:4rem;height: 4rem;" alt='html'>
 
-- CSS  <img src = './css.png' style="width:4rem;height: 4rem;" alt='css'>
+- CSS  
+<img src = './css.png' style="width:4rem;height: 4rem;" alt='css'>
 
-- JavaScript <img src = './JavaScript-logo.png' style="width:4rem;height: 4rem;" alt='JavaScript-logo'>
+- JavaScript 
+<img src = './JavaScript-logo.png' style="width:4rem;height: 4rem;" alt='JavaScript-logo'>
 
-- React <img src = './react.png' style="width:4rem;height: 4rem;" alt='react'>
+- React 
+<img src = './react.png' style="width:4rem;height: 4rem;" alt='react'>
 
-- Ruby  <img src = './ruby.jpg' style="width:4rem;height: 4rem;" alt='ruby'>
+- Ruby  
+<img src = './ruby.jpg' style="width:4rem;height: 4rem;" alt='ruby'>
 
-- Ruby on Rails <img src = './rails.png' style="width:4rem;height: 4rem;" alt='rails'>
+- Ruby on Rails 
+<img src = './rails.png' style="width:4rem;height: 4rem;" alt='rails'>
 
-- Full Stack Dev <img src = './full-stack.png' style="width:4rem;height: 4rem;" alt='full-stack'>
+- Full Stack Dev 
+<img src = './full-stack.png' style="width:4rem;height: 4rem;" alt='full-stack'>
 ## Experience
 ### Microverse (United States of America)
 
@@ -44,7 +51,7 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 
 ## Certifications
 
-- Programming in HTML5 with CSS3 - <img src = './cert.jpg' style="width:10rem;height: 8rem;" alt='rails'>
+- Programming in HTML5 with CSS3 - <img src = './cert.jpg' alt='rails'>
 ## Contact Me
 
 - Email - lanzzd191@gmail.com
