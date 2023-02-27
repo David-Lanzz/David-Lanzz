@@ -6,25 +6,25 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 ## Skills
 
 - HTML  
-<img src = './html.png' style="width:4rem;height: 4rem;" alt='html'>
+<img src = './images/html.png' style="width:4rem;height: 4rem;" alt='html'>
 
 - CSS  
-<img src = './css.png' style="width:4rem;height: 4rem;" alt='css'>
+<img src = './images/css.png' style="width:4rem;height: 4rem;" alt='css'>
 
 - JavaScript 
-<img src = './JavaScript-logo.png' style="width:4rem;height: 4rem;" alt='JavaScript-logo'>
+<img src = './images/JavaScript-logo.png' style="width:4rem;height: 4rem;" alt='JavaScript-logo'>
 
 - React 
-<img src = './react.png' style="width:4rem;height: 4rem;" alt='react'>
+<img src = './images/react.png' style="width:4rem;height: 4rem;" alt='react'>
 
 - Ruby  
-<img src = './ruby.jpg' style="width:4rem;height: 4rem;" alt='ruby'>
+<img src = './images/ruby.jpg' style="width:4rem;height: 4rem;" alt='ruby'>
 
 - Ruby on Rails 
-<img src = './rails.png' style="width:4rem;height: 4rem;" alt='rails'>
+<img src = './images/rails.png' style="width:4rem;height: 4rem;" alt='rails'>
 
 - Full Stack Dev 
-<img src = './full-stack.png' style="width:4rem;height: 4rem;" alt='full-stack'>
+<img src = './images/full-stack.png' style="width:4rem;height: 4rem;" alt='full-stack'>
 
 ## Experience
 ### Microverse (United States of America)
@@ -41,26 +41,26 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 ## Projects
 > Below are some of the projects i have worked on...
 
-- <a href='https://github.com/David-Lanzz/My-First-Capstone' ><img src = './mil.jpg' style="width:20rem;height: 15rem;" alt='capstone'></a>
+- <a href='https://github.com/David-Lanzz/My-First-Capstone' ><img src = './images/mil.jpg' style="width:20rem;height: 15rem;" alt='capstone'></a>
 
 > This capstone project is about a music festival in my country. I created it in honor of my favorite artiste, Wizkid. Stack: HTML, CSS, JavaScript.
 
 
-- <a href='https://github.com/David-Lanzz/My-Portfolio' ><img src = './port.jpg' style="width:20rem;height: 15rem;" alt='portfolio'></a>
+- <a href='https://github.com/David-Lanzz/My-Portfolio' ><img src = './images/port.jpg' style="width:20rem;height: 15rem;" alt='portfolio'></a>
 
 > This is a project i used in practice of my html and css skills. It is a portfolio project. Stack: HTML and CSS
 
 
-- <a href='https://github.com/David-Lanzz/My-ToDo-List' ><img src = './todo.jpg' style="width:20rem;height: 15rem;" alt='todo list'></a>
+- <a href='https://github.com/David-Lanzz/My-ToDo-List' ><img src = './images/todo.jpg' style="width:20rem;height: 15rem;" alt='todo list'></a>
 
 > This project is containing a ToDo list which i used to sharpen my skills in JavaScript and also to learn how to use webpacks efficiently. Stack: HTML,CSS,JavaScript,Webpack.
 
 ## Certifications
 
-- Programming in HTML5 with CSS3 - <img src = './cert.jpg' alt='rails'>
+- Programming in HTML5 with CSS3 - <img src = './images/cert.jpg' alt='rails'>
 ## Contact Me
 
--  <a href='lanzzd191@gmail.com' ><img src = './email.png' style="width:2rem;height: 2rem;" alt='email'></a>
-- <a href='https://www.linkedin.com/in/lanzz-david-378b9a250/' ><img src = './linkedin.png' style="width:2rem;height: 2rem;" alt='linkedin'></a> 
+-  <a href='lanzzd191@gmail.com' ><img src = './images/email.png' style="width:2rem;height: 2rem;" alt='email'></a>
+- <a href='https://www.linkedin.com/in/lanzz-david-378b9a250/' ><img src = './images/linkedin.png' style="width:2rem;height: 2rem;" alt='linkedin'></a> 
 
 ### Feel free to reach out to me If you have any questions of If you'd like to collaborate on a project.
