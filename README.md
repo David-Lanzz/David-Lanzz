@@ -5,21 +5,19 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 
 ## Skills
 
-- HTML  
- <img src = './html.png' style="width:4rem;height: 4rem;" alt='html'>
-- CSS  
-<img src = './css.png' style="width:4rem;height: 4rem;" alt='css'>
-- JavaScript 
- <img src = './JavaScript-logo.png' style="width:4rem;height: 4rem;" alt='JavaScript-logo'>
-- React 
- <img src = './react.png' style="width:4rem;height: 4rem;" alt='react'>
-- Ruby  
-<img src = './ruby.jpg' style="width:4rem;height: 4rem;" alt='ruby'>
-- Ruby on Rails 
-<img src = './rails.png' style="width:4rem;height: 4rem;" alt='rails'>
+- HTML  <img src = './html.png' style="width:4rem;height: 4rem;" alt='html'>
 
-- Full Stack Dev 
- <img src = './full-stack.png' style="width:4rem;height: 4rem;" alt='full-stack'>
+- CSS  <img src = './css.png' style="width:4rem;height: 4rem;" alt='css'>
+
+- JavaScript <img src = './JavaScript-logo.png' style="width:4rem;height: 4rem;" alt='JavaScript-logo'>
+
+- React <img src = './react.png' style="width:4rem;height: 4rem;" alt='react'>
+
+- Ruby  <img src = './ruby.jpg' style="width:4rem;height: 4rem;" alt='ruby'>
+
+- Ruby on Rails <img src = './rails.png' style="width:4rem;height: 4rem;" alt='rails'>
+
+- Full Stack Dev <img src = './full-stack.png' style="width:4rem;height: 4rem;" alt='full-stack'>
 ## Experience
 ### Microverse (United States of America)
 
