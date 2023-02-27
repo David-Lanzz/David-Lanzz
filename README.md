@@ -44,9 +44,8 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 
 ## Certifications
 
-- Programming in HTML5 with CSS3 - https://api.accredible.com/v1/auth/invite?code=90cf45509ba1021890c3&credential_id=a49335cc-2486-4f09-91b9-77348a44fc45&url=https%3A%2F%2Fwww.credential.net%2Fa49335cc-2486-4f09-91b9-77348a44fc45&ident=c37646b26fc0f72b5676350066092ff20bee1002/
-
-## Contack Me
+- Programming in HTML5 with CSS3 - <img src = './cert.jpg' style="width:10rem;height: 8rem;" alt='rails'>
+## Contact Me
 
 - Email - lanzzd191@gmail.com
 - LinkedIn - https://www.linkedin.com/in/lanzz-david-378b9a250/
