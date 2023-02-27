@@ -25,6 +25,7 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 
 - Full Stack Dev 
 <img src = './full-stack.png' style="width:4rem;height: 4rem;" alt='full-stack'>
+
 ## Experience
 ### Microverse (United States of America)
 
