@@ -14,7 +14,7 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 - React 
  <img src = './react.png' style="width:4rem;height: 4rem;" alt='react'>
 - Ruby  
-<img src = './ruby.png' style="width:4rem;height: 4rem;" alt='ruby'>
+<img src = './ruby.jpg' style="width:4rem;height: 4rem;" alt='ruby'>
 - Ruby on Rails 
 <img src = './rails.png' style="width:4rem;height: 4rem;" alt='rails'>
 
