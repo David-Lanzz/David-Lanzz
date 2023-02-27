@@ -6,20 +6,20 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 ## Skills
 
 - HTML  
-![Alt text](html.png)
+ <img src = './html.png' alt='html'>
 - CSS  
-![Alt text](css.png)
+<img src = './html.png' alt='html'>
 - JavaScript 
- ![Alt text](JavaScript-logo.png)
+ <img src = './html.png' alt='html'>
 - React 
- ![Alt text](react.png)
+ <img src = './html.png' alt='html'>
 - Ruby  
-![Alt text](ruby.jpg)
+<img src = './html.png' alt='html'>
 - Ruby on Rails 
-![Alt text](rails.png)
-- Full Stack Dev 
- ![Alt text](rails.png)
+<img src = './html.png' alt='html'>
 
+- Full Stack Dev 
+ <img src = './html.png' alt='html'>
 ## Experience
 ### Microverse (United States of America)
 
