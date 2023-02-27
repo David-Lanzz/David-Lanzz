@@ -8,15 +8,15 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 - HTML  
  <img src = './html.png' alt='html'>
 - CSS  
-<img src = './html.png' alt='html'>
+<img src = './css.png' alt='css'>
 - JavaScript 
- <img src = './html.png' alt='html'>
+ <img src = './JavaScript-logo.png' alt='JavaScript-logo'>
 - React 
- <img src = './html.png' alt='html'>
+ <img src = './react.png' alt='react'>
 - Ruby  
-<img src = './html.png' alt='html'>
+<img src = './ruby.png' alt='ruby'>
 - Ruby on Rails 
-<img src = './html.png' alt='html'>
+<img src = './rails.png' alt='rails'>
 
 - Full Stack Dev 
  <img src = './html.png' alt='html'>
