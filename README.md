@@ -1,19 +1,4 @@
-### Hello, I'm David 👋
-
-<!--
-**David-Lanzz/David-Lanzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello, I'm David 👋
 
 I am a Full-Stack Developer with over a year of experience in Software Engineering.
 I am passionate about politics and teaching and I enjoy playing chess in my free time
@@ -21,7 +6,7 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 ## Skills
 
 - HTML 
-- CSS ./css.png
+- CSS 
 - JavaScript
 - React
 - Ruby
@@ -29,7 +14,7 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 - Full Stack Dev
 
 ## Experience
-# Microverse (United States of America)
+### Microverse (United States of America)
 
 - Remote Student
 - Student Mentor
@@ -62,4 +47,4 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 - LinkedIn - https://www.linkedin.com/in/lanzz-david-378b9a250/
 
 
-# Feel free to reach out to me If you have any questions of If you'd like to collaborate on a project.
+### Feel free to reach out to me If you have any questions of If you'd like to collaborate on a project.
