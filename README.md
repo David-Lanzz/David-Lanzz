@@ -40,13 +40,18 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 ## Projects
 > Below are some of the projects i have worked on...
 
-- https://github.com/David-Lanzz/My-First-Capstone
+- <a href='https://github.com/David-Lanzz/My-First-Capstone' ><img src = './mil.jpg' style="width:20rem;height: 15rem;" alt='capstone'></a>
+
 > This capstone project is about a music festival in my country. I created it in honor of my favorite artiste, Wizkid. Stack: HTML, CSS, JavaScript.
 
-- https://github.com/David-Lanzz/My-Portfolio
+
+- <a href='https://github.com/David-Lanzz/My-Portfolio' ><img src = './port.jpg' style="width:20rem;height: 15rem;" alt='portfolio'></a>
+
 > This is a project i used in practice of my html and css skills. It is a portfolio project. Stack: HTML and CSS
 
-- https://github.com/David-Lanzz/My-ToDo-List
+
+- <a href='https://github.com/David-Lanzz/My-ToDo-List' ><img src = './todo.jpg' style="width:20rem;height: 15rem;" alt='todo list'></a>
+
 > This project is containing a ToDo list which i used to sharpen my skills in JavaScript and also to learn how to use webpacks efficiently. Stack: HTML,CSS,JavaScript,Webpack.
 
 ## Certifications
