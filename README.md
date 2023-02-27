@@ -5,13 +5,13 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 
 ## Skills
 
-- HTML 
-- CSS 
-- JavaScript
-- React
-- Ruby
-- Ruby on Rails
-- Full Stack Dev
+- HTML  ![Alt text](html.png)
+- CSS  ![Alt text](css.png)
+- JavaScript  ![Alt text](JavaScript-logo.png)
+- React  ![Alt text](react.png)
+- Ruby  ![Alt text](ruby.jpg)
+- Ruby on Rails ![Alt text](rails.png)
+- Full Stack Dev  ![Alt text](rails.png)
 
 ## Experience
 ### Microverse (United States of America)
