@@ -38,8 +38,8 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 
 ## Education
 
-- National Deploma in Mechanical Engineering, The Polytechnic of Ibadan,Nigeria
-- Pending Degree in Industrial and Production Engineering, The Federal University of Technology,Akure Nigeria
+- National Diploma in Mechanical Engineering, The Polytechnic of Ibadan, Nigeria
+- Pending Degree in Industrial and Production Engineering, The Federal University of Technology, Akure Nigeria
 
 ## Projects
 > Below are some of the projects i have worked on...(please click on images and navigate to the live demo link to get a detailed view of projects)
@@ -51,12 +51,12 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 
 - <a href='https://github.com/David-Lanzz/My-Portfolio' ><img src = './images/port.jpg' style="width:20rem;height: 15rem;" alt='portfolio'></a>
 
-> This is a project i used in practice of my html and css skills. It is a portfolio project. Stack: HTML and CSS
+> This is a project I used in the practice of my html and css skills. It is a portfolio project. Stack: HTML and CSS
 
 
 - <a href='https://github.com/David-Lanzz/My-ToDo-List' ><img src = './images/todo.jpg' style="width:20rem;height: 15rem;" alt='todo list'></a>
 
-> This project is containing a ToDo list which i used to sharpen my skills in JavaScript and also to learn how to use webpacks efficiently. Stack: HTML,CSS,JavaScript,Webpack.
+> This project is containing a ToDo list which I used to sharpen my skills in JavaScript and also to learn how to use web packs efficiently. Stack: HTML, CSS, JavaScript, Webpack.
 
 
 ## Stats
@@ -76,4 +76,4 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 -  <a href='lanzzd191@gmail.com' ><img src = './images/email.png' style="width:2rem;height: 2rem;" alt='email'></a>
 - <a href='https://www.linkedin.com/in/lanzz-david-378b9a250/' ><img src = './images/linkedin.png' style="width:2rem;height: 2rem;" alt='linkedin'></a> 
 
-### Feel free to reach out to me If you have any questions of If you'd like to collaborate on a project.
+### Feel free to reach out to me If you have any questions or If you'd like to collaborate on a project.
