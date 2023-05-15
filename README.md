@@ -73,7 +73,7 @@ I am passionate about politics and teaching and I enjoy playing chess in my free
 - Programming in HTML5 with CSS3 - <img src = './images/cert.jpg' alt='rails'>
 ## Contact Me
 
--  <a href='lanzzd191@gmail.com' ><img src = './images/email.png' style="width:2rem;height: 2rem;" alt='email'></a>
-- <a href='https://www.linkedin.com/in/lanzz-david-378b9a250/' ><img src = './images/linkedin.png' style="width:2rem;height: 2rem;" alt='linkedin'></a> 
+-  <a href='https://www.lanzzd191@gmail.com' ><img src = './images/email.png' style="width:2rem;height: 2rem;" alt='email'></a>
+- <a href='https://www.linkedin.com/in/david-lanzz' ><img src = './images/linkedin.png' style="width:2rem;height: 2rem;" alt='linkedin'></a> 
 
 ### Feel free to reach out to me If you have any questions or If you'd like to collaborate on a project.
